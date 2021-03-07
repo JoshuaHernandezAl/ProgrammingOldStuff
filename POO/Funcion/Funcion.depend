@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1520352930 source:c:\users\computacion basica\desktop\bibliotecas\punto.cpp
+	"Punto.h"
+
+1520352930 c:\users\computacion basica\desktop\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+
+1520356333 source:c:\users\computacion basica\desktop\funcion\main.cpp
+	<iostream>
+	<math.h>
+	"Punto.h"
+
+1520352930 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1520352930 c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+
+1520559453 source:c:\users\joshua hernandez\desktop\poo\funcion\main.cpp
+	<iostream>
+	<math.h>
+	"Punto.h"
+

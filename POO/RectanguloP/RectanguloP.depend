@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1526234441 source:c:\users\joshua hernandez\desktop\poo\rectangulop\main.cpp
+	<iostream>
+	"Punto.h"
+	"RectanguloP.h"
+
+1524543031 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1524532591 c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+
+1526234608 source:c:\users\joshua hernandez\desktop\poo\rectangulop\src\rectangulop.cpp
+	"RectanguloP.h"
+
+1526234201 c:\users\joshua hernandez\desktop\poo\rectangulop\include\rectangulop.h
+	"Punto.h"
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525031752 source:c:\users\joshua hernandez\desktop\poo\clasetriangulo\src\triangulo.cpp
+	"Triangulo.h"
+
+1525031538 c:\users\joshua hernandez\desktop\poo\clasetriangulo\include\triangulo.h
+	<iostream>
+	<math.h>
+
+1525031819 source:c:\users\joshua hernandez\desktop\poo\clasetriangulo\main.cpp
+	<iostream>
+	"Triangulo.h"
+

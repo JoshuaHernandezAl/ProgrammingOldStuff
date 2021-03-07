@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1550422167 source:c:\users\porfirio\desktop\practica2\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<Disercion.h>
+	<PuntoFijo.h>
+
+1550416028 c:\users\porfirio\desktop\practica2\include\disercion.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1550416276 source:c:\users\porfirio\desktop\practica2\src\disercion.cpp
+	"Disercion.h"
+
+1550417394 c:\users\porfirio\desktop\practica2\include\puntofijo.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1550422518 source:c:\users\porfirio\desktop\practica2\src\puntofijo.cpp
+	"PuntoFijo.h"
+
+1550422168 source:e:\analisis numerico\practica2\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<Disercion.h>
+	<PuntoFijo.h>
+
+1550416030 e:\analisis numerico\practica2\include\disercion.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1550417396 e:\analisis numerico\practica2\include\puntofijo.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1550416278 source:e:\analisis numerico\practica2\src\disercion.cpp
+	"Disercion.h"
+
+1550422846 source:e:\analisis numerico\practica2\src\puntofijo.cpp
+	"PuntoFijo.h"
+

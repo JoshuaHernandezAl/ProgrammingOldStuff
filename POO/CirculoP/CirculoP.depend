@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1524543031 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1524532591 c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+
+1514144174 source:c:\users\joshua hernandez\desktop\poo\circulop\main.cpp
+	<iostream>
+
+1526230781 source:c:\users\joshua hernandez\desktop\poo\circulop\src\circulop.cpp
+	"CirculoP.h"
+
+1526230781 c:\users\joshua hernandez\desktop\poo\circulop\include\circulop.h
+	"Punto.h"
+	<iostream>
+	<math.h>
+
+1526227181 source:c:\users\joshua hernandez\desktop\semestres\programacion\poo\circulop\src\circulop.cpp
+	"CirculoP.h"
+
+1526227181 c:\users\joshua hernandez\desktop\semestres\programacion\poo\circulop\include\circulop.h
+	"Punto.h"
+	<iostream>
+	<math.h>
+
+1528759185 source:c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1528759193 c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+

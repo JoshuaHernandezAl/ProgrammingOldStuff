@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590035240 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regresionpolinomial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+

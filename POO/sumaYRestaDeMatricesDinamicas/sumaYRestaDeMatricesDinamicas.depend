@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1523829137 source:c:\users\joshua hernandez\desktop\poo\sumayrestadematricesdinamicas\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1522977731 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\complejo.cpp
+	"Complejo.h"
+	<math.h>
+
+1522977703 c:\users\joshua hernandez\desktop\poo\bibliotecas\complejo.h
+	<iostream>
+	<math.h>
+
+1522980424 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\fraccion.cpp
+	"Fraccion.h"
+
+1522980494 c:\users\joshua hernandez\desktop\poo\bibliotecas\fraccion.h
+	<iostream>
+
+1522978169 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1522978582 c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+

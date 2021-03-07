@@ -1,0 +1,40 @@
+#include<graphics.h>
+#include<windows.h>
+#include<iostream>
+#include<stdlib.h>
+#include<math.h>
+#include<conio.h>
+
+using namespace std;
+
+class grafico
+{ public: 
+          int maxx, maxy;
+          grafico 
+          {
+                  maxx=0;
+                  maxy=0;
+          }
+           void grafica();
+};
+
+void grafico::grafica(){
+     maxx = getmaxx();
+     maxy = getmaxy();
+     setcolor(BLUE);
+     line(maxx,0,0,maxy);
+     rectangle(10,10,100,100);
+     circle(1000,700,50);
+     }
+     
+ int main()
+ {
+     initwindow(1400,1800,"WinBgim");
+     grafico uno;
+     uno grafica();
+     delay(2000);
+     getch();
+     closegraph();
+     return 0;
+     
+}        

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1519403442 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1519485836 c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.h
+	<iostream>
+
+1598224148 source:c:\users\joshua hernandez\desktop\educacion\semestres\programacion\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1598224148 c:\users\joshua hernandez\desktop\educacion\semestres\programacion\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+
+1611602034 source:c:\users\joshua hernandez\desktop\educacion\semestres\programacion\poo\pendiente\main.cpp
+	<iostream>
+	"Punto.h"
+

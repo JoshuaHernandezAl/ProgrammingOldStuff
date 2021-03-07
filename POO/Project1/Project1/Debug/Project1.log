@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+e:\david\project1\project1\MyForm.h(194): warning C4101: 'e': variable local sin referencia
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Project1.vcxproj -> E:\DAVID\Project1\Debug\Project1.exe
+  Project1.vcxproj -> E:\DAVID\Project1\Debug\Project1.pdb (Full PDB)

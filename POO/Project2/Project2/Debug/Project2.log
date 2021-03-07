@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+e:\david\project2\project2\MyForm.h(224): warning C4101: 'e': variable local sin referencia
+  MyForm.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+LINK : error LNK2001: sÝmbolo externo _Main sin resolver
+E:\DAVID\Project2\Debug\Project2.exe : fatal error LNK1120: 1 externos sin resolver

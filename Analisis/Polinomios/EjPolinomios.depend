@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1582643925 source:c:\users\ice\desktop\polinomio\complejo.cpp
+	"Complejo.h"
+
+1582643928 c:\users\ice\desktop\polinomio\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582641811 source:c:\users\ice\desktop\polinomio\nodop.cpp
+	"NodoP.h"
+
+1582641811 c:\users\ice\desktop\polinomio\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582641811 c:\users\ice\desktop\polinomio\termino.h
+	<iostream>
+
+1582644157 source:c:\users\ice\desktop\polinomio\polinomio.cpp
+	"Polinomio.h"
+
+1582641811 c:\users\ice\desktop\polinomio\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582641811 source:c:\users\ice\desktop\polinomio\termino.cpp
+	"Termino.h"
+
+1582643926 source:d:\complejo\complejo.cpp
+	"Complejo.h"
+
+1582643930 d:\complejo\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582644312 source:d:\complejo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1582641812 d:\complejo\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582641812 d:\complejo\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582641812 d:\complejo\termino.h
+	<iostream>
+
+1582641812 source:d:\complejo\nodop.cpp
+	"NodoP.h"
+
+1582644158 source:d:\complejo\polinomio.cpp
+	"Polinomio.h"
+
+1582641812 source:d:\complejo\termino.cpp
+	"Termino.h"
+
+1582773262 source:c:\users\joshua hernandez\desktop\polinomios\complejo.cpp
+	"Complejo.h"
+
+1582773259 c:\users\joshua hernandez\desktop\polinomios\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582775279 source:c:\users\joshua hernandez\desktop\polinomios\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1582773290 c:\users\joshua hernandez\desktop\polinomios\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582773284 c:\users\joshua hernandez\desktop\polinomios\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582773295 c:\users\joshua hernandez\desktop\polinomios\termino.h
+	<iostream>
+
+1582773280 source:c:\users\joshua hernandez\desktop\polinomios\nodop.cpp
+	"NodoP.h"
+
+1582773285 source:c:\users\joshua hernandez\desktop\polinomios\polinomio.cpp
+	"Polinomio.h"
+
+1582773292 source:c:\users\joshua hernandez\desktop\polinomios\termino.cpp
+	"Termino.h"
+
+1582776862 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\complejo.cpp
+	"Complejo.h"
+
+1582776859 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582778879 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Polinomio.h"
+
+1582776890 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582776884 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582776895 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\termino.h
+	<iostream>
+
+1582776880 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\nodop.cpp
+	"NodoP.h"
+
+1582776885 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\polinomio.cpp
+	"Polinomio.h"
+
+1582776892 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\polinomios\termino.cpp
+	"Termino.h"
+

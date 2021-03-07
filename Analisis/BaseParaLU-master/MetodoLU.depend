@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1585516012 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\ecuacion.cpp
+	"Ecuacion.h"
+
+1585516012 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\ecuacion.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"NodoP.h"
+
+1585516012 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\nodop.h
+	<iostream>
+	"Termino.h"
+
+1585516012 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\termino.h
+	<iostream>
+	<stdio.h>
+
+1590355960 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\main.cpp
+	"Sistema.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1590358480 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\sistema.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Ecuacion.h"
+
+1585516012 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\nodop.cpp
+	"NodoP.h"
+
+1590358548 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\sistema.cpp
+	"Sistema.h"
+
+1585516012 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\baseparalu-master\termino.cpp
+	"Termino.h"
+
+1585516012 source:c:\users\joshua hernandez\desktop\baseparalu-master\ecuacion.cpp
+	"Ecuacion.h"
+
+1585516012 c:\users\joshua hernandez\desktop\baseparalu-master\ecuacion.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"NodoP.h"
+
+1585516012 c:\users\joshua hernandez\desktop\baseparalu-master\nodop.h
+	<iostream>
+	"Termino.h"
+
+1585516012 c:\users\joshua hernandez\desktop\baseparalu-master\termino.h
+	<iostream>
+	<stdio.h>
+
+1590352360 source:c:\users\joshua hernandez\desktop\baseparalu-master\main.cpp
+	"Sistema.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1590354880 c:\users\joshua hernandez\desktop\baseparalu-master\sistema.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Ecuacion.h"
+
+1585516012 source:c:\users\joshua hernandez\desktop\baseparalu-master\nodop.cpp
+	"NodoP.h"
+
+1590354948 source:c:\users\joshua hernandez\desktop\baseparalu-master\sistema.cpp
+	"Sistema.h"
+
+1585516012 source:c:\users\joshua hernandez\desktop\baseparalu-master\termino.cpp
+	"Termino.h"
+

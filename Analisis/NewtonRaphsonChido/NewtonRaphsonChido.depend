@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1581348937 source:c:\users\ice\desktop\newtonraphsonchido\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1581348937 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\newtonraphsonchido\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+

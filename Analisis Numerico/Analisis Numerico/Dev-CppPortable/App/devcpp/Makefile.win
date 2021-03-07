@@ -1,0 +1,33 @@
+# Project: dib
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = dibujio_private.res
+OBJ  = dibujo.o $(RES)
+LINKOBJ  = dibujo.o $(RES)
+LIBS =  -L"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/lib" -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 
+INCS =  -I"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/include" 
+CXXINCS =  -I"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/lib/gcc/mingw32/3.4.2/include"  -I"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/include/c++/3.4.2/backward"  -I"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/include/c++/3.4.2/mingw32"  -I"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/include/c++/3.4.2"  -I"C:/Users/bal/Desktop/auxil/Dev C++/Dev-CppPortable/App/devcpp/include" 
+BIN  = dibujio.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before dibujio.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "dibujio.exe" $(LIBS)
+
+dibujo.o: dibujo.cpp
+	$(CPP) -c dibujo.cpp -o dibujo.o $(CXXFLAGS)
+
+dibujio_private.res: dibujio_private.rc 
+	$(WINDRES) -i dibujio_private.rc --input-format=rc -o dibujio_private.res -O coff 

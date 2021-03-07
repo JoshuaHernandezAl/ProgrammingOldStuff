@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1522978169 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1522978582 c:\users\joshua hernandez\desktop\poo\bibliotecas\punto.h
+	<iostream>
+	<math.h>
+
+1522977731 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\complejo.cpp
+	"Complejo.h"
+	<math.h>
+
+1522977703 c:\users\joshua hernandez\desktop\poo\bibliotecas\complejo.h
+	<iostream>
+	<math.h>
+
+1523830173 source:c:\users\joshua hernandez\desktop\poo\multiplicaciondematrices\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Complejo.h"
+

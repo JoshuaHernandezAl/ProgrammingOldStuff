@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1548639537 source:c:\users\porfirio\desktop\practicauno\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<e.h>
+	<Ln.h>
+
+1548613266 source:c:\users\porfirio\desktop\practicauno\src\e.cpp
+	"e.h"
+
+1548638816 c:\users\porfirio\desktop\practicauno\include\e.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1548625599 source:c:\users\porfirio\desktop\practicauno\src\union.cpp
+	"Union.h"
+
+1548625668 c:\users\porfirio\desktop\practicauno\include\union.h
+	<e.h>
+	<iostream>
+
+1548639502 source:c:\users\porfirio\desktop\practicauno\src\ln.cpp
+	"Ln.h"
+
+1548638516 c:\users\porfirio\desktop\practicauno\include\ln.h
+	<iostream>
+	<math.h>
+
+1548687768 source:e:\practicauno\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<e.h>
+
+1548687058 e:\practicauno\include\e.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1548687534 e:\practicauno\include\ln.h
+	<iostream>
+	<math.h>
+
+1548687058 source:e:\practicauno\src\e.cpp
+	"e.h"
+
+1548687530 source:e:\practicauno\src\ln.cpp
+	"Ln.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589930988 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regresionlineal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

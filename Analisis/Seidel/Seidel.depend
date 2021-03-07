@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590356583 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\seidel\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1519487399 source:c:\users\joshua hernandez\desktop\distanciaentrepuntos\main.cpp
+	<iostream>
+	<math.h>
+	"Punto.h"
+
+1519403442 source:c:\users\joshua hernandez\desktop\bibliotecas\punto.cpp
+	"Punto.h"
+
+1519485836 c:\users\joshua hernandez\desktop\bibliotecas\punto.h
+	<iostream>
+

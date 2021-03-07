@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1526604281 source:c:\users\joshua hernandez\desktop\poo\evento\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Hora.h"
+	"Evento.h"
+
+1526604032 source:c:\users\joshua hernandez\desktop\poo\evento\src\evento.cpp
+	"Evento.h"
+
+1526604016 c:\users\joshua hernandez\desktop\poo\evento\include\evento.h
+	"Fecha.h"
+	"Hora.h"
+	<iostream>
+
+1526604680 source:c:\users\joshua hernandez\desktop\poo\evento\src\hora.cpp
+	"Hora.h"
+
+1526602461 c:\users\joshua hernandez\desktop\poo\evento\include\hora.h
+	<iostream>
+
+1526604366 source:c:\users\joshua hernandez\desktop\poo\evento\src\fecha.cpp
+	"Fecha.h"
+
+1526603091 c:\users\joshua hernandez\desktop\poo\evento\include\fecha.h
+	<iostream>
+
+1527448906 source:c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\evento.cpp
+	"Evento.h"
+
+1527449087 c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\evento.h
+	"Fecha.h"
+	"Hora.h"
+	<iostream>
+
+1527448997 c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\fecha.h
+	<iostream>
+
+1526598861 c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\hora.h
+	<iostream>
+
+1527448997 source:c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\fecha.cpp
+	"Fecha.h"
+
+1526601080 source:c:\users\joshua hernandez\desktop\semestres\programacion\poo\bibliotecas\hora.cpp
+	"Hora.h"
+
+1526601480 source:c:\users\joshua hernandez\desktop\semestres\programacion\poo\evento\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Hora.h"
+	"Evento.h"
+

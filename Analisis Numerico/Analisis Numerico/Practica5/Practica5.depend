@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552318241 source:c:\users\alumno\desktop\practica5\main.cpp
+	<iostream>
+	<Saden.h>
+
+1552318255 c:\users\alumno\desktop\practica5\include\saden.h
+	<iostream>
+

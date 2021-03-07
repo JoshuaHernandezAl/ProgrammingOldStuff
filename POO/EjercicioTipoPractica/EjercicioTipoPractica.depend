@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1527452506 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\evento.cpp
+	"Evento.h"
+
+1527452687 c:\users\joshua hernandez\desktop\poo\bibliotecas\evento.h
+	"Fecha.h"
+	"Hora.h"
+	<iostream>
+
+1527452597 c:\users\joshua hernandez\desktop\poo\bibliotecas\fecha.h
+	<iostream>
+
+1526602461 c:\users\joshua hernandez\desktop\poo\bibliotecas\hora.h
+	<iostream>
+
+1526604680 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\hora.cpp
+	"Hora.h"
+
+1527452597 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\fecha.cpp
+	"Fecha.h"
+
+1527462471 source:c:\users\joshua hernandez\desktop\poo\ejerciciotipopractica\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	"Persona.h"
+
+1527452741 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\persona.cpp
+	"Persona.h"
+
+1527449444 c:\users\joshua hernandez\desktop\poo\bibliotecas\persona.h
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	"Evento.h"
+

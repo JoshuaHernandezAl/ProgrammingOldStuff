@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1580960016 source:c:\users\joshua hernandez\desktop\biseccion\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1581003633 source:c:\users\ice\desktop\biseccion\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+

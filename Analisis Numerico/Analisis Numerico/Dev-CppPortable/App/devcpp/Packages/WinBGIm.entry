@@ -1,0 +1,16 @@
+[Setup]
+AppName=WinBGIm
+AppVersion=6.0
+Description=The winbgim library allows you to use BGI graphics routines and simple mouse support for Windows applications. DevPak build by Glock17L. WinBGIm sources -> URL
+Url=http://www.cs.colorado.edu/%7Emain/cs1300/doc/bgi/bgi.html
+
+[Files]
+include\graphics.h
+lib\libbgi.a
+Templates\WinBGIm (example).template
+Templates\WinBGIm (main) no console.template
+Templates\WinBGIm (main).template
+Templates\bgidemo.cpp.txt
+Templates\winbgim_main(no console).cpp.txt
+Templates\winbgim_main.cpp.txt
+Templates\WinBGIm.ico

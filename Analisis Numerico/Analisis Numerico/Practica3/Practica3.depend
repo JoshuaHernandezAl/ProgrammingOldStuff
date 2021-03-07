@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1550713738 source:c:\users\porfirio\desktop\practica3\main.cpp
+	<iostream>
+	<Newton.h>
+
+1550713738 c:\users\porfirio\desktop\practica3\include\newton.h
+	<iostream>
+	<math.h>
+
+1550713740 source:e:\analisis numerico\practica3\main.cpp
+	<iostream>
+	<Newton.h>
+
+1550713740 e:\analisis numerico\practica3\include\newton.h
+	<iostream>
+	<math.h>
+
+1550714520 source:e:\analisis numerico\practica3\src\newton.cpp
+	"Newton.h"
+

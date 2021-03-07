@@ -1,0 +1,16 @@
+[Setup]
+AppName=CONIO
+AppVersion=2.0
+Description=Borland-style CONIO implementation for MinGW
+Url=http://conio.sf.net/
+
+[Files]
+docs\conio.chm
+examples\conio\conio_test.c
+examples\conio\constream_test.cpp
+include\conio2.h
+include\constream
+lib\libconio.a
+lib\libconio_unicode.a
+C:\Users\AMERICA\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bloodshed Dev-C++\CONIO\Docs.lnk
+C:\Users\AMERICA\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Bloodshed Dev-C++\CONIO\Homepage.url

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1519403442 source:c:\users\computacion basica\desktop\poo\bibliotecas\punto.cpp
+	"Punto.h"
+
+1519485836 c:\users\computacion basica\desktop\poo\bibliotecas\punto.h
+	<iostream>
+
+1519750994 source:c:\users\computacion basica\desktop\poo\triangulocontrespuntos\main.cpp
+	<iostream>
+	"Punto.h"
+	<math.h>
+

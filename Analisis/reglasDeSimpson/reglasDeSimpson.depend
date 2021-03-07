@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1582776862 source:c:\users\joshua hernandez\desktop\reglasdesimpson\complejo.cpp
+	"Complejo.h"
+
+1582776859 c:\users\joshua hernandez\desktop\reglasdesimpson\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582776880 source:c:\users\joshua hernandez\desktop\reglasdesimpson\nodop.cpp
+	"NodoP.h"
+
+1582776884 c:\users\joshua hernandez\desktop\reglasdesimpson\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582776895 c:\users\joshua hernandez\desktop\reglasdesimpson\termino.h
+	<iostream>
+
+1593555487 source:c:\users\joshua hernandez\desktop\reglasdesimpson\polinomio.cpp
+	"Polinomio.h"
+
+1593555487 c:\users\joshua hernandez\desktop\reglasdesimpson\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582776892 source:c:\users\joshua hernandez\desktop\reglasdesimpson\termino.cpp
+	"Termino.h"
+
+1593563154 source:c:\users\joshua hernandez\desktop\reglasdesimpson\main.cpp
+	<iostream>
+	"Polinomio.h"
+	<math.h>
+

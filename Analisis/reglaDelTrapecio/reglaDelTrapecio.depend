@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1582776862 source:c:\users\joshua hernandez\desktop\regladeltrapecio\complejo.cpp
+	"Complejo.h"
+
+1582776859 c:\users\joshua hernandez\desktop\regladeltrapecio\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582776880 source:c:\users\joshua hernandez\desktop\regladeltrapecio\nodop.cpp
+	"NodoP.h"
+
+1582776884 c:\users\joshua hernandez\desktop\regladeltrapecio\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582776895 c:\users\joshua hernandez\desktop\regladeltrapecio\termino.h
+	<iostream>
+
+1593555487 source:c:\users\joshua hernandez\desktop\regladeltrapecio\polinomio.cpp
+	"Polinomio.h"
+
+1593555487 c:\users\joshua hernandez\desktop\regladeltrapecio\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582776892 source:c:\users\joshua hernandez\desktop\regladeltrapecio\termino.cpp
+	"Termino.h"
+
+1593558081 source:c:\users\joshua hernandez\desktop\regladeltrapecio\main.cpp
+	<iostream>
+	"Polinomio.h"
+
+1582776862 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\complejo.cpp
+	"Complejo.h"
+
+1582776859 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1593563556 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\main.cpp
+	<iostream>
+	"Polinomio.h"
+	<stdlib.h>
+	<math.h>
+
+1593555487 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582776884 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582776895 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\termino.h
+	<iostream>
+
+1582776880 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\nodop.cpp
+	"NodoP.h"
+
+1593555487 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\polinomio.cpp
+	"Polinomio.h"
+
+1582776892 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\regladeltrapecio\termino.cpp
+	"Termino.h"
+

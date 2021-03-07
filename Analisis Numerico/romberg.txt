@@ -1,0 +1,70 @@
+
+#include<iostream>
+#include<math.h>
+#include<conio.h>
+using namespace std;
+class Romberg
+{   private:
+       int i,j,n,N;
+       float x[20],y[20],b,c;
+       double h,xd,ls,li,p[20],R;
+    public:
+       void ec(void);
+};
+void Romberg::ec(void)
+{             cout<<endl<<"Ingrese el limite inferior " ;
+  cin>>li;
+  cout<<endl<<"Ingrese el limite superior " ;
+  cin>>ls;
+ 
+     cout<<endl<<" Niveles: ";
+     cin>>n;
+     
+     for(int a=1;a<=n;a++)
+     {
+      N=pow(2,a-1);
+     h=(ls-li)/N;
+     cout<<"h="<<h;
+      b=0;
+      for(int s=0;s<=N;s++)
+      {
+      y[s]=pow(b,4)+4;
+      b=b+h;    // cout<<"ys"<<s<<"="<<y[s]<<endl<<endl;
+     
+     
+     }
+     xd=0;
+     for(i=1;i<=N-1;i++)
+     {
+      xd=xd+y[i];   //  cout<<"xd="<<xd;
+   
+   
+     }
+    // cout<<"xd="<<xd<<endl;
+      p[a]=(h/2)*(y[0]+y[N]+(2*xd));
+cout<<endl<<"El valor de A(1/2)= "<<p[a]<<endl<<endl;
+     
+ }
+ int ab=1;
+ for(int o=n-1;o>=1;o-=1)
+ {
+  for(int a=1;a<=o;a++)
+  {
+   p[a]=((pow(4,ab)/(pow(4,ab)-1))*p[a+1])-((1/(pow(4,ab)-1))*p[a]);
+   R=p[a];
+  // cout<<R;
+  }
+ 
+  ab=ab+1;
+ }
+ 
+ //cout<<"h="<<h;
+ cout<<endl<<endl<<"El area es= "<<R<<endl<<endl<<endl;
+}
+int main()
+{
+    Romberg obj;
+    obj.ec();
+    getch();
+    return 0;
+}

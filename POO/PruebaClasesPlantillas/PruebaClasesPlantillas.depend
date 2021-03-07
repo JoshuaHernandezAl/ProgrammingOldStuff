@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528765854 source:c:\users\joshua hernandez\desktop\poo\pruebaclasesplantillas\main.cpp
+	<iostream>
+	"FraccionT.h"
+

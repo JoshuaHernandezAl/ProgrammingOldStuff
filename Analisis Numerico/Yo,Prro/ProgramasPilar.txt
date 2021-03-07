@@ -1,0 +1,189 @@
+													Programa 1:
+
+#include <iostream>
+#include<stdlib.h>
+#include<math.h>
+#include<stdio.h>
+
+using namespace std;
+
+class errores{
+  private:
+      int k,x,i;
+      double va, ea, fac;
+  public:
+    void serie(void);
+    double factorial(int);
+};
+void errores::serie(void){
+    cout<<"dame el valor de X:"<<endl;
+    cin>>x;
+    k=0;
+    va=0;
+    do{
+        va=va+ pow(x,k)/factorial(k);
+        ea=fabs(exp(x)-va);
+        k++;
+        fac=1;
+        }while(ea>=0.00000001);
+        cout<<endl<<"el valor de ex es: "<<va<<endl;
+}
+double errores::factorial(int k){
+    if(k==0)
+        return 1;
+    else{
+        for(i=1;i<=k; i++)
+        fac=fac*i;
+        return (fac);
+        }
+}
+
+int main()
+{
+    errores obj;
+    obj.serie();
+    system("PAUSE");
+    return 0;
+}
+
+														Programa 2:
+
+#include <iostream>
+#include<stdlib.h>
+#include<math.h>
+#include<stdio.h>
+
+using namespace std;
+
+class errores{
+  private:
+      int k,x,i;
+      double va, ea, fac;
+  public:
+    void serie(void);
+    double factorial(int);
+};
+void errores::serie(void){
+    cout<<"dame el valor de X:"<<endl;
+    cin>>x;
+    k=0;
+    va=0;
+    do{
+        va=va+pow(-1,k)*pow(x,2*k+1)/FACT(2*k+1);
+        ea=fabs(sin(x)-va);
+        k++;
+        fac=1;
+        }while(ea>=0.00000001);
+        cout<<endl<<"el valor de ex es: "<<va<<endl;
+}
+double errores::factorial(int k){
+    if(k==0)
+        return 1;
+    else{
+        for(i=1;i<=k; i++)
+        fac=fac*i;
+        return (fac);
+        }
+}
+
+int main()
+{
+    errores obj;
+    obj.serie();
+    system("PAUSE");
+    return 0;
+}
+															Programa Grafico:
+
+#include<graphics.h>
+#include<windows.h>
+#include <iostream>
+#include<stdlib.h>
+#include<math.h>
+#include<conio.h>
+#include<dos.h>
+
+using namespace std;
+
+class grafico{
+      public:
+      int maxx, maxy;
+      grafico()
+         {
+            maxx = 0;
+            maxy = 0;
+         }
+            void grafica();
+   };
+
+void grafico::grafica(){
+	maxx=getmaxx();
+	maxy=getmaxy();
+         setcolor(BLUE);
+         line(maxx,0,0,maxy);         
+         rectangle(10,10,100,100);
+	circle(1000,700,50);                
+        
+     }
+
+int main(){
+      initwindow(1400,1800,"WinBGIm");
+      grafico uno;
+      uno.grafica();
+      delay(2000);
+      getch();
+      closegraph();
+      return 0;
+   }
+
+															Programa del seno:
+#include<graphics.h>
+#include<windows.h>
+ 
+#include<stdlib.h>
+#include<math.h>
+#include<conio.h>
+
+using namespace std;
+
+class grafico
+   {
+      public:
+      int x, y;
+      grafico()
+         {
+            x = 0;
+            y = 0;
+         }
+            void grafica();
+   };
+
+void grafico::grafica()
+     {
+         for(x = 5;x < 725; x++)
+         {
+            y=235-sin(2*x*M_PI/360)*100;
+            putpixel(x,y,GREEN);
+         }
+
+         setcolor(YELLOW);
+         line(1,225,800,225);
+         line(5,0,5,450);         
+         setcolor(RED);
+         outtextxy(15,4,"Funcion y=sin(x)");
+                  setcolor(BLUE);
+          outtextxy(2,2,"y");
+           outtextxy(800,250,"x");                 
+        
+     }
+
+int main(){
+      initwindow(900,500,"WinBgim");
+      grafico uno;
+      uno.grafica();
+      delay(2000);
+      getch();
+      closegraph();
+      return 0;
+   }
+

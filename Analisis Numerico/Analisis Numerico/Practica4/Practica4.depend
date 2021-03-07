@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1551645573 source:c:\users\porfirio\desktop\practica4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<Gauss.h>
+	<Jordan.h>
+
+1551638469 c:\users\porfirio\desktop\practica4\include\gauss.h
+	<iostream>
+
+1551644426 source:c:\users\porfirio\desktop\practica4\src\gauss.cpp
+	"Gauss.h"
+
+1551649232 source:c:\users\porfirio\desktop\practica4\src\jordan.cpp
+	"Jordan.h"
+
+1551645095 c:\users\porfirio\desktop\practica4\include\jordan.h
+	<iostream>
+
+1551645574 source:e:\analisis numerico\practica4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<Gauss.h>
+	<Jordan.h>
+
+1551638470 e:\analisis numerico\practica4\include\gauss.h
+	<iostream>
+
+1551645096 e:\analisis numerico\practica4\include\jordan.h
+	<iostream>
+
+1551649234 source:e:\analisis numerico\practica4\src\jordan.cpp
+	"Jordan.h"
+

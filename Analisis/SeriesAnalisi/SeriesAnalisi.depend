@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548532147 source:c:\users\joshua hernandez\desktop\seriesanalisi\main.cpp
+	<iostream>
+	"Series.h"
+
+1548532128 source:c:\users\joshua hernandez\desktop\seriesanalisi\series.cpp
+	"Series.h"
+
+1548531242 c:\users\joshua hernandez\desktop\seriesanalisi\include\series.h
+	<math.h>
+	<iostream>
+

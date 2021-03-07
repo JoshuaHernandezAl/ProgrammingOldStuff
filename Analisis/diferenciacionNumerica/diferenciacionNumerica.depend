@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1593555098 source:c:\users\joshua hernandez\desktop\diferenciacionnumerica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	"Polinomio.h"
+
+1582776862 source:c:\users\joshua hernandez\desktop\diferenciacionnumerica\complejo.cpp
+	"Complejo.h"
+
+1582776859 c:\users\joshua hernandez\desktop\diferenciacionnumerica\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1582776880 source:c:\users\joshua hernandez\desktop\diferenciacionnumerica\nodop.cpp
+	"NodoP.h"
+
+1582776884 c:\users\joshua hernandez\desktop\diferenciacionnumerica\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582776895 c:\users\joshua hernandez\desktop\diferenciacionnumerica\termino.h
+	<iostream>
+
+1593555487 source:c:\users\joshua hernandez\desktop\diferenciacionnumerica\polinomio.cpp
+	"Polinomio.h"
+
+1593555487 c:\users\joshua hernandez\desktop\diferenciacionnumerica\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582776892 source:c:\users\joshua hernandez\desktop\diferenciacionnumerica\termino.cpp
+	"Termino.h"
+
+1582776862 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\complejo.cpp
+	"Complejo.h"
+
+1582776859 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\complejo.h
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1593564006 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	"Polinomio.h"
+
+1593555487 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\polinomio.h
+	<iostream>
+	<math.h>
+	"Complejo.h"
+	"NodoP.h"
+
+1582776884 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\nodop.h
+	<iostream>
+	"Termino.h"
+
+1582776895 c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\termino.h
+	<iostream>
+
+1582776880 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\nodop.cpp
+	"NodoP.h"
+
+1593555487 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\polinomio.cpp
+	"Polinomio.h"
+
+1582776892 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\diferenciacionnumerica\termino.cpp
+	"Termino.h"
+

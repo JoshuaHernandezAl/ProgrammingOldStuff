@@ -1,0 +1,23 @@
+[Template]
+ver=1
+Name=WinBGIm (no console)
+Icon=WinBGIm.ico
+Description=Create a WinBGIm program with no console
+Catagory=WinBGIm
+[Unit0]
+CppName=main.cpp
+Cpp=winbgim_main(no console).cpp.txt
+
+[Project]
+UnitCount=1
+Type=1
+IsCpp=1
+Compiler=
+CppCompiler=
+Linker=-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -mwindows
+CompilerSettings=0
+CompilerSet=0
+IncludeVersionInfo=0
+SupportXPThemes=0
+Name=WinBGI (no console)
+ProjectIcon=WinBGIm.ico

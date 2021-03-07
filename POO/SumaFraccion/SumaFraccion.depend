@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1520352930 source:c:\users\computacion basica\desktop\bibliotecas\fraccion.cpp
+	"Fraccion.h"
+
+1520352930 c:\users\computacion basica\desktop\bibliotecas\fraccion.h
+	<iostream>
+
+1520613286 source:c:\users\computacion basica\desktop\sumafraccion\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Fraccion.h"
+
+1520352930 source:c:\users\joshua hernandez\desktop\poo\bibliotecas\fraccion.cpp
+	"Fraccion.h"
+
+1520352930 c:\users\joshua hernandez\desktop\poo\bibliotecas\fraccion.h
+	<iostream>
+

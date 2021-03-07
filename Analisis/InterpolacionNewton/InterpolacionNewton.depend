@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1593549523 source:c:\users\joshua hernandez\desktop\semestres\programacion\analisis\interpolacionnewton\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
+1593549523 source:c:\users\joshua hernandez\desktop\interpolacionnewton\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
